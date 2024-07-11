@@ -1,0 +1,33 @@
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cb2dcb;
+}
+ .nav-logo{
+    width: 150px;
+    margin-right: 700px;
+    
+}
+
+.nav-menu-options{
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    margin-right: 900px;
+    
+}
+
+.nav-menu-options li{
+   font-size: 22px;
+   font-weight: 500;
+   color: rgb(0, 0, 0);
+}
+
+.nav-menu-options hr{
+    border: none;
+    width: 95%;
+    height: 3px;
+    border-radius: 10px;
+    background: black;
+}
