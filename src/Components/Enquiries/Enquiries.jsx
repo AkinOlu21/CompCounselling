@@ -4,7 +4,9 @@ import './Enquiries.css'
 const Enquiries = () => {
   return (
     <div>
-        
+        <div>
+          aaa
+        </div>
     </div>
   )
 }

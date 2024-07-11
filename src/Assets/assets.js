@@ -5,11 +5,14 @@ import Insta_icon from './Insta_icon.svg'
 import Facebook_icon from './Facebook_icon.svg'
 import WhatsApp_icon from './Whatsapp_icon.svg'
 
+import Header_img from './Header_img.png'
+
 
 export const assets = {
     X_icon,
     Insta_icon,
     Facebook_icon,
     WhatsApp_icon,
-    Compassion_Logo
+    Compassion_Logo,
+    Header_img
 }
